@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741438691316",
+    "project_id": "notifications-ca470",
+    "storage_bucket": "notifications-ca470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741438691316:android:18ed6d00777b3722938ba1",
+        "android_client_info": {
+          "package_name": "com.emobile.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114960590306949545042",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4D8V2KxrGEHTu4E_41vDLUuYoeshlB4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114960590306949545042",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
